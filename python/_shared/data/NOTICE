@@ -1,0 +1,14 @@
+This directory contains a 20,000-character excerpt from
+
+    Alice's Adventures in Wonderland, by Lewis Carroll (1865)
+
+sourced from Project Gutenberg eBook #11, Millennium Fulcrum Edition 3.0
+(https://www.gutenberg.org/ebooks/11).
+
+Why it is here: the tests must be reproducible without network access, and a
+character-level language model needs real text with real statistics to demonstrate
+anything. This is the smallest fixture that supports the claim in the README.
+
+The text is in the public domain in the United States. Project Gutenberg's terms
+apply to the source edition, not to this excerpt's use here. Nothing else in this
+repository is derived from it.

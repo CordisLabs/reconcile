@@ -1,0 +1,7 @@
+[package]
+name = "m05_huffman"
+version = "0.1.0"
+edition = "2021"
+description = "Huffman coding with Shannon-bound assertions (zero dependencies)"
+
+[dependencies]

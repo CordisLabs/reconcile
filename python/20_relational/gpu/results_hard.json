@@ -1,0 +1,14 @@
+[
+  {
+    "model": "cnn",
+    "test_acc": 0.6312,
+    "seconds": 127.0,
+    "params": 18770
+  },
+  {
+    "model": "cnn_rn",
+    "test_acc": 0.5336,
+    "seconds": 130.6,
+    "params": 31570
+  }
+]

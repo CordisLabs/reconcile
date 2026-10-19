@@ -1,0 +1,6 @@
+{
+  "train_pairs": 6000,
+  "test_pairs": 1500,
+  "accuracy": 0.6033,
+  "epochs": 30
+}

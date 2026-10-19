@@ -1,0 +1,7 @@
+[package]
+name = "m06_msi"
+version = "0.1.0"
+edition = "2021"
+description = "Universal intelligence Upsilon over a finite environment class (zero dependencies)"
+
+[dependencies]

@@ -1,0 +1,4 @@
+# downloaded at run time, never committed
+**/gpu/data/
+**/gpu/corpus.txt
+__pycache__/

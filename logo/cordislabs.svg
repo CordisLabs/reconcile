@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 460" width="460" height="460">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12a7ab"/>
+      <stop offset="1" stop-color="#1982c9"/>
+    </linearGradient>
+  </defs>
+  <!-- C: outer radius 117.5, stroke 53, opening ±48° -->
+  <path d="M 272.2 304.5 A 91 91 0 1 1 272.2 155.5"
+        fill="none" stroke="url(#g)" stroke-width="53" stroke-linecap="round"/>
+  <!-- check: short incoming stroke, long outgoing stroke -->
+  <path d="M 292 236 L 320 266 L 392 188"
+        fill="none" stroke="url(#g)" stroke-width="28"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,62 @@
+[
+  {
+    "params": 379872,
+    "tokens": 1998848,
+    "val_loss": 2.5394
+  },
+  {
+    "params": 379872,
+    "tokens": 7999488,
+    "val_loss": 1.9975
+  },
+  {
+    "params": 379872,
+    "tokens": 19996672,
+    "val_loss": 1.7576
+  },
+  {
+    "params": 1620320,
+    "tokens": 1998848,
+    "val_loss": 2.3365
+  },
+  {
+    "params": 1620320,
+    "tokens": 7999488,
+    "val_loss": 1.7645
+  },
+  {
+    "params": 1620320,
+    "tokens": 19996672,
+    "val_loss": 1.5938
+  },
+  {
+    "params": 6436352,
+    "tokens": 1998848,
+    "val_loss": 2.047
+  },
+  {
+    "params": 6436352,
+    "tokens": 7999488,
+    "val_loss": 1.6355
+  },
+  {
+    "params": 6436352,
+    "tokens": 19996672,
+    "val_loss": 1.5014
+  },
+  {
+    "params": 21470976,
+    "tokens": 1998848,
+    "val_loss": 1.9326
+  },
+  {
+    "params": 21470976,
+    "tokens": 7999488,
+    "val_loss": 1.5805
+  },
+  {
+    "params": 21470976,
+    "tokens": 19996672,
+    "val_loss": 1.4628
+  }
+]

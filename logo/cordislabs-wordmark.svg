@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 300" width="1100" height="300">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#12a7ab"/>
+      <stop offset="1" stop-color="#1982c9"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(38 18) scale(0.52)">
+    <path d="M 272.2 304.5 A 91 91 0 1 1 272.2 155.5"
+          fill="none" stroke="url(#g)" stroke-width="53" stroke-linecap="round"/>
+    <path d="M 292 236 L 320 266 L 392 188"
+          fill="none" stroke="url(#g)" stroke-width="28"
+          stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="330" y="196" font-family="Liberation Sans, Arial, sans-serif"
+        font-size="108" font-weight="bold" letter-spacing="-2"
+        fill="url(#g)">Cordis Labs</text>
+</svg>

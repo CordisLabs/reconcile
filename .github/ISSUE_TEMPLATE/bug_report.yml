@@ -1,0 +1,42 @@
+name: 切片有问题
+description: 某个切片的实现、测试或 README 与论文对不上
+title: "[切片] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        先跑这两条，把输出贴进来：
+
+        ```bash
+        make test
+        python3 scripts/check_consistency.py
+        ```
+  - type: input
+    id: slice
+    attributes:
+      label: 哪个切片
+      placeholder: python/16_attention 或 rust/m04_coffee
+    validations:
+      required: true
+  - type: textarea
+    id: symptom
+    attributes:
+      label: 现象
+      description: 哪个断言、哪个数字和你的预期不符
+    validations:
+      required: true
+  - type: textarea
+    id: paper
+    attributes:
+      label: 论文原文怎么说
+      description: 引原文并给出章节或公式号。"我觉得不对"很难处理，"论文 §4 式 7 是 X"可以直接核对
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: 命令与输出
+      render: shell
+    validations:
+      required: false

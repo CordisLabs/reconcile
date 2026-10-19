@@ -1,0 +1,3 @@
+[workspace]
+members = ["m05_huffman", "m01_mdl", "m02_mdl_tutorial", "m06_msi", "m04_coffee", "m03_complexodynamics"]
+resolver = "2"

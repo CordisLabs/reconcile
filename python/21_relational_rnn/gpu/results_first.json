@@ -1,0 +1,20 @@
+[
+  {
+    "length": 20,
+    "lstm": 0.3156,
+    "lstm_secs": 2.8,
+    "rmc_oneshot": 1.0,
+    "rmc_oneshot_secs": 4.9,
+    "rmc_self": 1.0,
+    "rmc_self_secs": 24.0
+  },
+  {
+    "length": 50,
+    "lstm": 0.323,
+    "lstm_secs": 2.6,
+    "rmc_oneshot": 1.0,
+    "rmc_oneshot_secs": 6.5,
+    "rmc_self": 0.323,
+    "rmc_self_secs": 58.3
+  }
+]

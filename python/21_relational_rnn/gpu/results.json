@@ -1,0 +1,30 @@
+[
+  {
+    "length": 5,
+    "lstm": 0.543,
+    "lstm_secs": 14.8,
+    "rmc": 0.5555,
+    "rmc_secs": 28.3
+  },
+  {
+    "length": 10,
+    "lstm": 0.4734,
+    "lstm_secs": 11.7,
+    "rmc": 0.4902,
+    "rmc_secs": 30.2
+  },
+  {
+    "length": 20,
+    "lstm": 0.4402,
+    "lstm_secs": 16.1,
+    "rmc": 0.45,
+    "rmc_secs": 24.8
+  },
+  {
+    "length": 40,
+    "lstm": 0.4055,
+    "lstm_secs": 14.5,
+    "rmc": 0.3988,
+    "rmc_secs": 32.4
+  }
+]

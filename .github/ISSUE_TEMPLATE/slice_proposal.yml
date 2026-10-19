@@ -1,0 +1,31 @@
+name: 提议新增切片
+description: 建议补一篇论文或换一个更硬的判据
+title: "[提议] "
+labels: ["proposal"]
+body:
+  - type: input
+    id: paper
+    attributes:
+      label: 论文
+      description: 标题、作者、年份，以及可公开访问的链接
+      placeholder: "Attention Is All You Need — Vaswani et al. 2017 — arXiv:1706.03762"
+    validations:
+      required: true
+  - type: textarea
+    id: judge
+    attributes:
+      label: 判据
+      description: |
+        这篇最值得验证的是哪一句？什么是不依赖训练、不依赖大规模算力的正确性来源？
+        解析解、精确等价、小规模暴力枚举、有限差分，都可以。
+    validations:
+      required: true
+  - type: textarea
+    id: limits
+    attributes:
+      label: 预期做不到的部分
+      description: |
+        哪些结论需要真实规模（大数据集、GPU、多卡）才能验证？写在这里，
+        免得最后拿一个玩具实验去声称复现了论文。
+    validations:
+      required: false

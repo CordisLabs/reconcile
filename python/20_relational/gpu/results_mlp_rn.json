@@ -1,0 +1,12 @@
+[
+  {
+    "model": "mlp",
+    "test_acc": 0.6432,
+    "seconds": 11.3
+  },
+  {
+    "model": "rn",
+    "test_acc": 0.8025,
+    "seconds": 12.5
+  }
+]

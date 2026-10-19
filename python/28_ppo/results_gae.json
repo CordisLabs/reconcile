@@ -1,0 +1,54 @@
+[
+  {
+    "hard": false,
+    "gae": false,
+    "reached": "5/5",
+    "median_steps": 2830,
+    "runs": [
+      1483,
+      2830,
+      13463,
+      14076,
+      903
+    ]
+  },
+  {
+    "hard": false,
+    "gae": true,
+    "reached": "5/5",
+    "median_steps": 16882,
+    "runs": [
+      9788,
+      22819,
+      16882,
+      29268,
+      489
+    ]
+  },
+  {
+    "hard": true,
+    "gae": false,
+    "reached": "5/5",
+    "median_steps": 15922,
+    "runs": [
+      11845,
+      29001,
+      20336,
+      15922,
+      351
+    ]
+  },
+  {
+    "hard": true,
+    "gae": true,
+    "reached": "5/5",
+    "median_steps": 15218,
+    "runs": [
+      15218,
+      4321,
+      46610,
+      21137,
+      351
+    ]
+  }
+]

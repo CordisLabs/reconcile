@@ -1,0 +1,1 @@
+/home/rchua/src/reconcile/rust/target/debug/examples/complextropy: /home/rchua/src/reconcile/rust/m03_complexodynamics/examples/complextropy.rs /home/rchua/src/reconcile/rust/m03_complexodynamics/src/lib.rs /home/rchua/src/reconcile/rust/m04_coffee/src/lib.rs

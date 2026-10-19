@@ -1,0 +1,7 @@
+[package]
+name = "m04_coffee"
+version = "0.1.0"
+edition = "2021"
+description = "Coffee automaton: compressed fine array rises monotonically, compressed coarse array rises then falls (zero dependencies)"
+
+[dependencies]

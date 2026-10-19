@@ -1,0 +1,7 @@
+[package]
+name = "m02_mdl_tutorial"
+version = "0.1.0"
+edition = "2021"
+description = "NML regret for a Bernoulli source: 0.5 log n + O(1), computed by brute force (zero dependencies)"
+
+[dependencies]

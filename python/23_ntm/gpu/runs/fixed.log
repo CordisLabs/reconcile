@@ -1,0 +1,23 @@
+device: cuda copy length 6
+/home/rchua/src/reconcile/python/23_ntm/gpu/copy_task.py:130: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at /pytorch/torch/csrc/autograd/generated/python_variable_methods.cpp:836.)
+  losses.append(float(loss))
+  step 3750: loss 0.0441
+  step 7500: loss 0.0084
+  step 11250: loss 0.0010
+  step 15000: loss 0.0006
+  curriculum length 5: final loss 0.0006 (893s)
+  checkpoint saved to runs/ntm_fixed.pt
+  step 2500: loss 0.1392
+  step 5000: loss 0.0562
+  step 7500: loss 0.0351
+  step 10000: loss 0.0241
+  curriculum length 8: final loss 0.0241 (1000s)
+  checkpoint saved to runs/ntm_fixed.pt
+  step 10000: loss 0.0361
+  step 20000: loss 0.0086
+  step 30000: loss 0.0037
+  step 40000: loss 0.0107
+  curriculum length 10: final loss 0.0107 (4924s)
+  checkpoint saved to runs/ntm_fixed.pt
+{"train_length": 6, "steps": 4000, "final_loss": 0.0098, "seconds": 6817.0, "acc_len_10": 0.9539, "acc_len_15": 0.0, "acc_len_20": 0.0}

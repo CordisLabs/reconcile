@@ -1,0 +1,29 @@
+[
+  {
+    "length": 5,
+    "lstm": 0.5453,
+    "lstm_secs": 2.9,
+    "rmc_oneshot": 0.5453,
+    "rmc_oneshot_secs": 3.8,
+    "rmc_step": 0.5473,
+    "rmc_step_secs": 13.5
+  },
+  {
+    "length": 20,
+    "lstm": 0.432,
+    "lstm_secs": 2.9,
+    "rmc_oneshot": 0.4406,
+    "rmc_oneshot_secs": 6.7,
+    "rmc_step": 0.4449,
+    "rmc_step_secs": 40.5
+  },
+  {
+    "length": 50,
+    "lstm": 0.3688,
+    "lstm_secs": 2.9,
+    "rmc_oneshot": 0.4004,
+    "rmc_oneshot_secs": 5.5,
+    "rmc_step": 0.3973,
+    "rmc_step_secs": 98.0
+  }
+]

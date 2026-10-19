@@ -1,0 +1,7 @@
+[package]
+name = "m01_mdl"
+version = "0.1.0"
+edition = "2021"
+description = "Two-part MDL code: the description length of the weights as an explicit cost (zero dependencies)"
+
+[dependencies]

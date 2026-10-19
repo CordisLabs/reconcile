@@ -1,0 +1,8 @@
+[package]
+name = "m03_complexodynamics"
+version = "0.1.0"
+edition = "2021"
+description = "The log(t) bound that forces resource bounds into any complextropy measure"
+
+[dependencies]
+m04_coffee = { path = "../m04_coffee" }

@@ -1,0 +1,9 @@
+{
+  "train_length": 5,
+  "steps": 8000,
+  "final_loss": 1.0536,
+  "seconds": 402.1,
+  "acc_len_5": 0.0203,
+  "acc_len_8": 0.0,
+  "acc_len_10": 0.0
+}
